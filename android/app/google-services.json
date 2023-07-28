@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238489637109",
+    "project_id": "book-92921",
+    "storage_bucket": "book-92921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238489637109:android:e229caae56de06042df5bc",
+        "android_client_info": {
+          "package_name": "com.example.myliberary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238489637109-dif8g80he1q76flo7d6ke0lnv1bqvebb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRvdaGJ7LhOyUnzv8h1sqXHNMf3b7z8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238489637109-dif8g80he1q76flo7d6ke0lnv1bqvebb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

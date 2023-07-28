@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>238489637109-9fpok70hnja6463marb3c6s3llseiegb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.238489637109-9fpok70hnja6463marb3c6s3llseiegb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBb4X5_9dtjJox2H9e7GirEhfLJ115wmY0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>238489637109</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.myliberary</string>
+	<key>PROJECT_ID</key>
+	<string>book-92921</string>
+	<key>STORAGE_BUCKET</key>
+	<string>book-92921.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:238489637109:ios:70f17ee229ae1fca2df5bc</string>
+</dict>
+</plist>
